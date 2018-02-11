@@ -57,6 +57,14 @@ public class MongDao {
     }
 
     /**
+     * 添加对象集合
+     * @param list
+     */
+    public void insertAll(List<?> list){
+        mongoTemplate.insertAll(list);
+    }
+
+    /**
      * 根基条件删除对象
      * @param pram
      * @param value

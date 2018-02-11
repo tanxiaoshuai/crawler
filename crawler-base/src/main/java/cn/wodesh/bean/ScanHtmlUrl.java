@@ -25,6 +25,9 @@ public class ScanHtmlUrl {
     //扫描次数
     private Integer scancount = 0;
 
+    //类型
+    private String type;
+
     public String getUuid() {
         return uuid;
     }
@@ -63,5 +66,13 @@ public class ScanHtmlUrl {
 
     public void setTitle(String title) {
         this.title = title;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 }

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crawler-mserver:war">
+    <output-path>$PROJECT_DIR$/crawler-mserver/target</output-path>
+    <root id="archive" name="crawler-mserver-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crawler-mserver:war exploded" />
+    </root>
+  </artifact>
+</component>

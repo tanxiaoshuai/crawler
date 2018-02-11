@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crawler.iml" filepath="$PROJECT_DIR$/crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-base/crawler-base.iml" filepath="$PROJECT_DIR$/crawler-base/crawler-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-mserver/crawler-mserver.iml" filepath="$PROJECT_DIR$/crawler-mserver/crawler-mserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-netease/crawler-netease.iml" filepath="$PROJECT_DIR$/crawler-netease/crawler-netease.iml" />
+    </modules>
+  </component>
+</project>
